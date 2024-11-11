@@ -1,0 +1,9 @@
+# FILE: src/contents/index.yml
+baseUrl: "http://localhost:3000/"
+title: "My Portfolio"
+
+navigation:
+    - label: "Home"
+      url: "/"
+    - label: "Blog"
+      url: "/posts/"
